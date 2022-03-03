@@ -1,2 +1,3 @@
 # CoffeeCafeMenu
-Basic CSS lesson in the Responsive Web Design (Beta) from FreeCodeCamp
+
+# Basic CSS lesson in the Responsive Web Design (Beta) from FreeCodeCamp
